@@ -39,7 +39,7 @@ ALTER TABLE public.employee OWNER TO postgres;
 COPY public.employee (id, name) FROM stdin;
 3	Кристина
 2	Софья
-1	Илья
+1	Кирюшка
 \.
 
 
